@@ -1,0 +1,25 @@
+<html>
+<head>
+	<title>anchor tag</title>
+</head>
+<body bgcolor="black">
+<p>
+<font color="red">
+<center>
+<h1><a name="top">top of document</a></h1>
+<h2><a href="#down">down of document </a></h2>
+</center>
+<center><b><i>Everybody loathes it, but everybody does it. A recent-<br>
+poll showed that 40% of americans, the world's most 1-<br>
+avish tippers,hate the practice.It seems so arbitrary,<br>
+after all. Why does a barman get a tip, but not a fast<br>
+food worker or a doctor who saves lives.in america along<br>
+along,tipping is now $16 billion-a-year industry the<br>
+more suprising scienc it is a behavioural oddity. Consumers<br>
+acting rationally ought not to pay moer than they have ti<br>
+A given service Tips which are voluntary, above and beyond a<br>
+service's contracted cost,and delivered afterwards,should<br></b></i>
+</center>
+</p>
+</body>
+</html>

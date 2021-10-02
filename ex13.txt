@@ -1,0 +1,60 @@
+<html>
+<head>
+
+<table border="1" width="83" aligen="center" bgcolor="black">
+<caption aligen="bottom"><b><br>Table2</b></caption>
+
+<tr aligen="center">
+       <td width="55">
+	<font color="yellow">
+	<b><u>Name</u></b>
+	</font>
+       </td>
+       <td width="75">
+	<font color="yellow">
+	<b><u>Oualification</u></b>
+	</font>
+       </td>
+</tr>
+
+<tr aligen="center" valign="middle">
+       <td width="55" rowspan=2>
+	<font color="yellow">
+	Yaksh
+	</font>
+        </td>
+        <td width="55">
+	<font color="yellow">
+	B.SC
+	</font>
+        </td>
+  </tr>
+<tr align="center" valign="middle">
+         <td width="60">
+	<font color="yellow">
+	M.C.A 
+          </td>
+</tr> 
+
+<tr aligen="center" valign="middle">
+       <td width="75" rowspan=2>
+	<font color="green">
+	Pinkal
+	</font>
+        </td>
+        <td width="55">
+	<font color="green">
+	B.COM
+	</font>
+        </td>
+  </tr>
+
+<tr align="center" valign="middle">
+         <td width="70">
+	<font color="green">
+	C.A 
+          </td>
+</tr> 
+</table>
+</body>
+</html>

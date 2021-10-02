@@ -1,0 +1,21 @@
+<html>
+<head>
+	<title> IMag</title>
+</head>
+<body bgcolor="pink" text="Green">
+<center>
+	<img src="D:\Wallpaper\Animal\3.jpg" height="300"  width="400" vsapce="50" hspace="50">
+<strong>
+<br>
+	This image shows national Animal of INDIA 
+</strong>
+<br>
+<strong>
+	On the Insert tab, the galleries include items that are designed to coordinate with the <br>
+	overall look of your document. You can use these galleries to insert tables, headers, footers,<br> 
+	lists, cover pages, and other document building blocks. When you create pictures, charts, <br>
+	or diagrams, they also coordinate with your current document look.<br>
+</strong>
+</center>
+</body>
+<html>

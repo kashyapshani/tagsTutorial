@@ -1,0 +1,23 @@
+<html>
+<body bgcolor="blue">
+<pre>
+<font color="yellow">
+<b>wanted more client
+<hr>
+</font>
+Hurry up !!<br>
+<pre>
+<b>This is pre tag.it is used<br>
+	when you want to display preformatted text<br>
+	in document.for example you want to display<br>
+	following text in webpage.<br></b>
+
+INDIA		AUSTRALIA		
+					SRILANKA
+
+  		PAKISTAN	ENGLANG
+DUBAI
+
+</PRE>
+</BODY>
+</HTML>

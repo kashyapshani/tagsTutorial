@@ -1,0 +1,21 @@
+<html>
+<head>         
+	<title>table3</title>
+</head>
+<table border=2 bordercolor="red" width=300 cellpadding=4 cellspacing =3>
+<tr align="center">
+	<td colspan=2>ed</td>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             <td>tom</td>
+                  <td>jerry</td>
+</tr>
+<tr>
+	<td>oggy</td>
+	<td>bob</td>
+	<td colspan=2>ed</td>
+</tr>
+<tr>
+	<td>jack</td>
+	<td>pursy</td>
+	<td colspan=2>kortak<td>
+</tr>
+</table>
+</html>                                                                                                                                                                                                                                                                                                             

@@ -1,0 +1,39 @@
+<html>
+<head>
+	<title>Image table</title>
+</head>
+<body bgcolor="pink">
+<center>
+<table border="4" width="69%" cellpadding="5">
+<tr>
+	<td width="40%">
+		<img src="D:\Wallpaper\SAYS\say21.jpg" width="250" hight="250">
+		<center><b>Image 1</b></center>
+	</td>
+	<td width="40%">
+		<img src="D:\Wallpaper\SAYS\say22.jpg" width="250" hight="250">
+		<center><b>Image 2</b></center>
+	</td>
+	<td width="51%">
+		<img src="D:\Wallpaper\SAYS\say23.jpg" width="250" hight="250">
+		<center><b>Image 3</b></center>
+	</td>
+</tr>
+<tr>
+	<td width="40%">
+		<img src="D:\Wallpaper\SAYS\say24.jpg" width="250" hight="250">
+		<center><b>Image 4</b></center>
+	</td>
+	<td width="38%">
+		<img src="D:\Wallpaper\SAYS\say25.jpg" width="250" hight="250">
+		<center><b>Image 5</b></center>
+	</td>
+	<td width="40%">
+		<img src="D:\Wallpaper\SAYS\say26.gif" width="250" hight="250">
+		<center><b>Image 6</b></center>
+	</td>
+</tr>
+</table>
+</center>
+</body>
+</html>

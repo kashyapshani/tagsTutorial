@@ -1,0 +1,24 @@
+<html>
+<head>
+	<title>Order list/Unorder list</title>
+</head>
+<body>
+<center><b><i>Unorder list</i></b></center>
+	<ol type=circle>
+		<li>Pinkal</li>
+		<li>Yaksh</li>
+		<li>Paras</li>
+		<li>Het</li>
+	</ol>
+	<ol type=square>
+		<li>Pinkal</li>
+		<li>Yaksh</li>
+		<li>Paras</li>
+		<li>Het</li>
+	</ol>
+	<ol type=bullet>
+		<li>Pinkal</li>
+		<li>Yaksh</li>
+		<li>Paras</li>
+		<li>Het</li>
+	</ol>

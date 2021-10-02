@@ -1,0 +1,43 @@
+<html>
+<head>
+	<title>Order list/Unorder list</title>
+</head>
+<body>
+<center><b></i>Order list</i></b></center>
+
+	<ol type=A>
+		<li>Pinkal</li>
+		<li>Yaksh</li>
+		<li>Paras</li>
+		<li>Het</li>
+	</ol>
+
+	<ol type=a>
+		<li>Pinkal</li>
+		<li>Yaksh</li>
+		<li>Paras</li>
+		<li>Het</li>
+	</ol>
+
+	<ol type=1>
+		<li>Pinkal</li>
+		<li>Yaksh</li>
+		<li>Paras</li>
+		<li>Het</li>
+	</ol>
+
+	<ol type=I>
+		<li>Pinkal</li>
+		<li>Yaksh</li>
+		<li>Paras</li>
+		<li>Het</li>
+	</ol>
+
+	<ol type=i>
+		<li>Pinkal</li>
+		<li>Yaksh</li>
+		<li>Paras</li>
+		<li>Het</li>
+	</ol>
+</body>
+</html>

@@ -1,0 +1,29 @@
+<html>
+<head>
+	<title>Table</title>
+
+</head>
+<body>
+
+<table border="1" width=200" align="center">
+
+<caption aligen="top"><b>Table1</b></caption>
+
+<tr align="center">
+	<td width="100">Item</td>
+	<td width="100">Price</td>
+</tr>
+<tr aligen="center">
+	<td width="100">i001</td>
+	<td width="100">100.25</td>
+</tr>
+
+<tr aligen="center">
+	<td width="100">i002</td>
+	<td width="100">100.30</td>
+</tr>
+</table>
+</body>
+</html>
+
+

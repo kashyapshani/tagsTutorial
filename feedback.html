@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<title>Feedback Form</title>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+	<style>
+		body{
+			background: linear-gradient(to bottom, white 0%,grey 80%, black 100%);
+			color:black;
+			}
+		#i1{
+			margin-top:-10px;	
+			border:2px solid blue;
+			border-radius:5px;
+			padding:10px;
+			background-color:transparent;
+			color:grey;
+			}
+		#ig1{
+			width:140px;
+			margin-top:-50px;
+			margin-left:8px;
+			}
+		textarea{
+			border:2px solid blue;
+			border-radius:5px;
+			background-color:transparent;
+			color:grey;
+			}
+			
+			
+			
+			ul{
+	list-style-type:none;
+	margin:0;
+	background-color:transparent;
+}
+li{
+	display:inline-block;
+	padding: 6px 3%;
+	margin-bottom:0px;
+	font-family:arial;
+	text-decoration:none;
+	font-size:20px;
+}
+li :hover{
+	background-color:transparents;
+	border-bottom:solid 2px blue;
+	color:white;
+	padding:6px 3%;
+	border-radius:5px 5px 0px 0px;
+	opacity: 0.4;
+	filter: alpha(opacity=50);
+	background-color:black;
+	}
+li a{
+	text-decoration:none;
+	color:black;
+	}
+#i2{ 
+	border-radius:5px 0px 0px 5px;
+	border:solid 2px black;
+	padding:3.5px;
+	margin-left:50px;
+	background-color:transparent;
+	padding:5px;
+	}
+.i{
+	border-radius:0px 5px 5px 0px;
+	border:solid 2px;
+	border-color:black;
+	padding:1.5px;
+	padding-top:3px;
+	padding-bottom:5px;
+	}
+#ta{
+	margin-left:80%;
+	margin-top:-35px;
+	}
+#hid1{
+	color:blue;
+	text-align:center;
+	}
+#ex1{
+	border:solid 10px;
+	border-color:black blue;
+	text-align:center;
+	margin:0% 30%;
+	}
+pre{
+	color:lightgrey;
+	}
+#ig{
+	border:solid 0px black;
+	border-radius:50px;
+	}
+#ig4{ 
+ position: absolute;
+    margin-left:60%;
+    top:30%;
+    z-index: -1;
+	border:1px solid transparent;
+	border-radius:5%;
+	width:30%;
+	opacity: 0.5;
+	filter: alpha(opacity=50);
+}
+ #d1{
+	text-decoration:none;
+	color:black;
+	}
+</style>
+</head>
+<body>
+<script>
+        $(document).ready(function(){
+            $("input.fdk").click(function(){
+				var mail = $(".email").val();
+				if (/^[a-zA-Z0-9.!#$%&'*+/=?^_`{|}~-]+@[a-zA-Z0-9-]+(?:\.[a-zA-Z0-9-]+)*$/.test(mail))
+				{
+					flag+=1;
+					$("#email_msg").html("");
+				}
+				else{
+					$("#email_msg").html("You have entered an invalid email address");
+					return false;
+				}
+			});
+		});
+</script>
+		<a href="casestudy.html"><img src="logo.png" height="45px" width="100px" title="Click for HomePage"></a>
+			<li><a href="notes.html" title="Click to Open Notes">Notes</a></li>
+			<li><a href="video.html" title="Click to Open Videos">Videos</a></li>
+			<li><a href="book" title="Click to Open Images">Books</a></li>
+			<li><a href="try.html" title="Click to Open Try">Code&nbspRun</a></li>
+			<input type="text" placeholder="Search.." id="i2"><span class="i"><a href="https://www.w3schools.com/"><img src="search.png" width="30px" valign="-10px" title="click on it for search"></a></span>
+			<table id="ta">
+			<tr>
+				<td><img src="fb.png" width="30px" title="Connect With us on Facebook"></td><td></td><td></td>
+				<td><img src="insta.png" width="30px" title="Connect With us on Instagram"></td><td></td><td></td>
+				<td><img src="twitter.png" width="40px" title="Connect With us on Twitter"></td><td><a href="developer_info.html" id="d1"><img src="dev.png"width="40px"title="click for developer info"></a></td>
+			</tr>
+			</table>
+		</ul>
+		<hr>
+<img src="thank.jpg" id="ig4">
+<form method="post" action="#" name="feedback">
+<div>
+	<h4>Your Name:</h4>
+		<input type="text" placeholder="Type Here" id="i1">
+	<h4>Email:</h4>
+		<input type="Email" placeholder="example@gmail.com" class="email" id="i1">
+	<h4>Your Review:</h4>
+		<textarea cols=45 rows=10></textarea>
+	<h4>Overall Experience</h4>
+		<input type="radio" name="click" id="i1" checked>Very Good
+		<input type="radio" name="click" id="i1">Good
+		<input type="radio" name="click" id="i1">Fair
+		<input type="radio" name="click" id="i1">Poor
+	<h4>Timely Responce</h4>
+		<input type="radio" name="clic" id="i1" checked>Very Good
+		<input type="radio" name="clic" id="i1">Good
+		<input type="radio" name="clic" id="i1">Fair
+		<input type="radio" name="clic" id="i1">Poor
+	<h4>Our Support!</h4>
+		<input type="radio" name="cli" id="i1" checked>Very Good
+		<input type="radio" name="cli" id="i1">Good
+		<input type="radio" name="cli" id="i1">Fair
+		<input type="radio" name="cli" id="i1">Poor
+	<h4>Overall Satisfaction</h4>
+		<input type="radio" name="cl" id="i1" checked>Very Good
+		<input type="radio" name="cl" id="i1">Good
+		<input type="radio" name="cl" id="i1">Fair
+		<input type="radio" name="cl" id="i1">Poor
+	<h4>Wan't to rate us for customer servises?</h4>
+	<input type="range" min="1" max="6" class="slider" id="myRange"></div>
+	<img src="stars.png" id="ig1"><br>
+	<input type="Submit" class="fdk"id="i1">&nbsp&nbsp&nbsp <input type="reset" id="i1">
+	</div>
+</form>
+</body>
+</html>		

@@ -1,0 +1,46 @@
+<html>
+<head>
+	<title>Real example </title>
+</head>
+<body bgcolor="black">
+ 
+
+<font size=3 color="yellow">
+<h3>cd-roms</h3>
+	<li>Broderbund:
+	<strong>Carmen Advantage Library</strong>
+	<br>
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		Rs.1550.InnoservSystem,New Delhi,6855341.
+	<br>
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		Enter<cite><strong>RN000401</strong></cite>
+		on the<br>
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<br>
+	<br>
+		<font size=3 color="orange">
+		on the Megadisk</font>
+	<dir>
+		<li>Flipflop
+		<li>Student Diary
+		<li>Basic Electronics Concept Review
+		<li>Writing Style Demos
+	<dir><br>
+	<dl>
+	<font color="yellow">
+	<dt>HTM
+	<font>
+		<dd>html is a internet programming language.
+	</dl>
+	<dl>
+	<dt>VARIABLE
+
+		<dd><var>VARIABLE is used to store some value.</var>
+	</dl>
+	<dl>
+	<dt>KEYBOARD
+		<dd><kbd>KEYBOARD is a input device.</kbd>
+	</dl>
+</body>
+</html>

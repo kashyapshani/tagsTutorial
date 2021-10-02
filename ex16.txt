@@ -1,0 +1,38 @@
+<html>
+<head>
+	<title>table5</title>
+</head>
+<body>
+
+<table border="0" cellpadding="3" cellspacing="0" width="100%">
+<tr>
+	<td align="center" width="10%"></td>
+	<td align="center" valign="top" width="42%">
+	<font size="3">
+	 <strong>Image and text</strong>
+	</font>
+	</td>
+             </tr>
+             <tr>
+	<td aligen="left" valign="top" width="52%">
+	<font size="4">
+	Nature is unique gift of god.<br>
+	It gives relef to all human.<br>
+	Being and animalbeing.<br>
+	You can see beauty of nature in image.<br>
+	In image there are beautiful clouds,greenary,rivers and mountains etc.<br>
+	</font>
+	</td>
+	<td aling="center" width="48%">
+	 <img src="D:\Wallpaper\Beautiful Scenery\059.jpg" width="300" height="300">
+	 <br>
+	 <font size="1">
+	      <em>
+                       <h3>See the nature caption</h3>
+	      </em>
+	 </font><br>
+	</td>
+          </tr>
+</table>
+</body>
+</html>   

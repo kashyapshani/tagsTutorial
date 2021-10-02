@@ -1,0 +1,66 @@
+<html>
+<head>
+	<title>Story</title>
+</head>
+<body background="D:\Wallpaper\baby\anisha.jpg">
+<center>
+	<fontface="Brush ScriptMT"size=7 color="black">
+		<i>Story of worlds</i><hr>
+	</font>
+	<fontcolor="purple">
+	<h3>Story1:ABrave Deed</h3>
+	<b><i>
+	It was a fine spring afternoon.The school got over.I started for home on my cycle 
+I was filled with plesure at the nature scenery all around. I reached a small pond,Two kids
+were splashing there in the water. Ifelt happy to see them enjoying so.All
+	</i></b>
+	<em>
+	of a sudden one slipped and began to drawn. he scremed for help. I lost no time.
+I threw down my cycle and bag and without furthrt delay,jumped into the pond.Thank god I 
+knew swimming.I pulled the boy safely to the shore.A big croud gathered.They all
+	</em>
+	<strike>
+	      appraised my bravery.The boy's parants thanks me heartly but i went home
+satished that I have done my duty.
+	</strike>
+	<hr>
+
+	<h3>Story1:ABrave Deed</h3>
+	<b><i>
+	It was a fine spring afternoon.The school got over.I started for home on my cycle 
+I was filled with plesure at the nature scenery all around. I reached a small pond,Two kids
+were splashing there in the water. Ifelt happy to see them enjoying so.All
+	</i></b>
+	<kbd>
+	of a sudden one slipped and began to drawn. he scremed for help. I lost no time.
+I threw down my cycle and bag and without furthrt delay,jumped into the pond.Thank god I 
+knew swimming.I pulled the boy safely to the shore.A big croud gathered.They all
+	</kbd>
+	<code>
+	      appraised my bravery.The boy's parants thanks me heartly but i went home
+satished that I have done my duty.
+	</code>
+	<hr>
+
+	<h3>Story1:ABrave Deed</h3>
+	<b><i><u>
+	It was a fine spring afternoon.The school got over.I started for home on my cycle 
+I was filled with plesure at the nature scenery all around. I reached a small pond,Two kids
+were splashing there in the water. Ifelt happy to see them enjoying so.All
+	</u></i></b>
+	<var>
+	of a sudden one slipped and began to drawn. he scremed for help. I lost no time.
+I threw down my cycle and bag and without furthrt delay,jumped into the pond.Thank god I 
+knew swimming.I pulled the boy safely to the shore.A big croud gathered.They all
+	</var>
+	<strong>
+	      appraised my bravery.
+	</strong>
+	<sample>
+The boy's parants thanks me heartly but i went home satished that I have done my duty.
+	</sample>
+</font>
+</body>
+</html>
+	
+	

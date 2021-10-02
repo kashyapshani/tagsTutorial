@@ -1,0 +1,30 @@
+	India is country of IT professional.<br>
+
+<!--see the use of link break element-->
+	HTML is a language which create<br>
+	webpages as pre your choice.<br>
+
+<!--to see the use of center element-->
+	<center>I love india</left><br>
+<!--to see the  use of left element-->
+	<left>I love india</left><br>
+</b>
+<basefont=4>
+let's see the effect of basefont in line<br>
+
+<fontsize=4color="red">
+by font element we can change size<br>
+and color of text.<br>
+<!--see the use of blink tag-->
+	<blink>India</blink><br>
+<!--see the use of strike tag-->
+	**<strike>home</strike><br>
+<!--see the use of superscripttag-->
+	**computer world<sup>@</sup><br>
+<!--see the use of superscript tag-->
+	**computer world<sub>tm</sub><br>
+<!--see the use of big element-->
+	<small>smallfont</small>
+</font>
+</body>
+</html>

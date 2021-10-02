@@ -1,0 +1,67 @@
+<html>
+<head>
+	<title>Form and table</title>
+</head>
+<body text="blue" style="bold">
+<center>
+	<b>Detail Form</b>
+</center>
+<center>
+	<Form name="Form1" Action="MAILTO:kalps@wilnetonline.net">
+<table width="350" border="0">
+<tr>
+	<td align="center">item code</td>
+	<td>
+	<Input type="Text" Name="code"
+	title="Please enter the Name"length="20"> 
+	</td>
+</tr>
+<tr>
+	<td aligen="center">item name</td>
+	<td>
+	<Input type="Text" Name="Name"title="Please enter the Name" Length="20">
+	</td>
+</tr>
+<tr>
+	<td aligen="center">Description</td>
+	<td valign="top" colspan="2">
+	<Textarea Name="Description" title="Enter address. "rows="2" cols="20">
+	</Textarea>
+	</td>
+</tr>
+<tr>
+	<td aligen="center"><Lable for="YearID">Price</lable></td><
+	<td valing="top" colspan="2">
+	<Input type="text" Name="quantity" size="10" value"">
+	</td>
+</tr>	
+<tr>
+	<td aligen="center">Ouantity</td>
+	<td valign="Top" colspan="2">
+	<input type="text" Name="quantity" Size="10" value"">
+</tr>
+<tr>
+	<td aligen="center">Total Price</td>
+	<td valign="Top" colspan="2">
+	<input type="text" Name="Totalprice" Size="10" value"">
+	</td>
+</tr>
+<tr>
+	<td align="center">Discount</td>
+	<td valign="Top" colspan="2">
+	<Input type="text" name="Discont" size="10" value="">
+	</td>
+</tr>
+<tr>
+	<td align="center">Net Price</td>
+	<td valign="Top" colspan="2"
+	<Input type="Text" name="Netprice" size="10" value="">
+	</td>
+</tr>
+</table>
+<br><br>
+	<Input type="Button" Value="Submit">
+</form>
+	<a href="Mailto:kalps@wilnetonline.net">CLICK HERE TO MAIL</a>
+</body>
+</html> 

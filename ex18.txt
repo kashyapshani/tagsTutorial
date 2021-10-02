@@ -1,0 +1,22 @@
+<html>
+<head>
+<title>A simple form using GET</title>
+</head>
+<Body >
+<h2 aligen="center">A sample form using GET</h2>
+<form action="http://localhost:8088/someprogram"method="get">
+<center>
+	First name:
+	<Input type="Text" name="First name"
+	value="computer" placeholder"hfgdf"><br>
+	Last name:
+	<Input type="Text" name="Last name"
+	value="World"><p>
+	Password
+	<input type="Password" name="pw"><p>
+	 <Input type="submit"> <! - - Press this button to submit form - ->
+</cenyer>
+</body>
+</html>
+
+
